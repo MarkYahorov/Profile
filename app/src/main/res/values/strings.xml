@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="profile">Profile</string>
+    <string name="name">Kira Knightley</string>
+    <string name="robert_downey_jr">Robert Downey Jr.</string>
+    <string name="comment_first">Воу, что я увидел сейчас</string>
+    <string name="hot_chick">Hot chick</string>
+    <string name="petrov_alex">Petrov Alex</string>
+    <string name="enter_you_comment">Enter you comment</string>
+    <string name="_100">100</string>
+    <string name="_2">2</string>
+    <string name="actress">Actress</string>
+    <string name="https_www_instagram_com_keiraknightleyofficialpage">https://www.instagram.com/keiraknightleyofficialpage/</string>
+    <string name="_0">0</string>
+    <string name="followers">followers</string>
+    <string name="posts">posts</string>
+    <string name="following">following</string>
+    <string name="following_btn">Following</string>
+</resources>
